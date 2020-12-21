@@ -13,7 +13,7 @@ branches:
 install:
   - npm install ionic -g
   - npm install
-  - ionic build
+  - ionic build --prod
 
 #script to be run such as tests
 
